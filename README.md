@@ -75,7 +75,7 @@ This directory holds the logic behind our application. Typically, these files
 represent either a component of your application, such as a User, Post, or
 Comment, or a unit of work. Each file in models typically contains a different
 class. For example, `dog.rb` would contain a class called `Dog`. As you might
-have guessed, models represent the "M" components of the MVC paradigm.
+have guessed, models represent the "M" componentsthe MVC paradigm.
 
 Models represent the data and object logic of our application.
 
