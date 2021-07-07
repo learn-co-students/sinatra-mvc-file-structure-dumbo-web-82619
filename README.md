@@ -66,8 +66,8 @@ should be installed.
 
 ### `app` directory
 
-This folder holds our MVC directories - `models`, `views`, and `controllers`.
-We spend most of our time coding in this directory.
+<!-- This folder holds our MVC directories - `models`, `views`, and `controllers`.
+We spend most of our time coding in this directory. -->
 
 #### `models` directory
 
@@ -77,7 +77,7 @@ Comment, or a unit of work. Each file in models typically contains a different
 class. For example, `dog.rb` would contain a class called `Dog`. As you might
 have guessed, models represent the "M" components of the MVC paradigm.
 
-Models represent the data and object logic of our application.
+<!-- Models represent the data and object logic of our application. -->
 
 Create a new file in the models directory to create a dog class. This class
 should have name, breed, and age attributes which can be set on initialization.
